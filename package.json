@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/igorklyopov/goit-js-hw-10-food-service.git"
   },
-  "keywords": ["GoIT", "homework 10", "Igor Klyopov", "Parsel","food service gallery"],
+  "keywords": ["GoIT", "homework 10", "Igor Klyopov", "Parsel","food service gallery", "switch theme"],
   "author": "Igor Klyopov <shoot8202@gmail.com>",
   "license": "ISC",
   "bugs": {
